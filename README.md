@@ -1,1 +1,1 @@
-Student project for simple Blog application developed in Ruby on Rails.
+Student project for simple Blog application developed with Ruby on Rails.
